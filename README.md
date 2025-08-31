@@ -1,3 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=header"/>
+
+<img width="1584" height="396" alt="LinkedIn cover - 29" src="https://github.com/user-attachments/assets/d1c05723-0bec-4ce7-8dee-1ef8c95ebf3e" />
+
+<br>
+
 # 🚗 Sistema de Estacionamento - Desafio Técnico
 
 [![Status](https://img.shields.io/badge/Status-✅%20Aprovado-brightgreen)](https://github.com)
@@ -7,6 +13,9 @@
 ## 📋 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte de um **desafio técnico para vaga de desenvolvedor júnior**, no qual obtive **100% de aprovação**. O sistema simula o gerenciamento de um estacionamento, demonstrando conhecimentos sólidos em **Programação Orientada a Objetos (POO)**, **tratamento de exceções** e **estruturas de dados** em Java.
+
+<img width="929" height="1000" alt="image" src="https://github.com/user-attachments/assets/5afabe7c-8cef-4a07-9aab-46bbceb4bedd" />
+
 
 ## 🎯 Objetivos do Desafio
 
@@ -197,3 +206,14 @@ Desenvolvido como parte do processo seletivo para **vaga de desenvolvedor Java j
 ---
 
 *"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista do que fazer e o que não fazer. Profissionalismo e artesanato vêm de valores que dirigem disciplinas."* - Robert C. Martin
+
+---
+
+ <br>
+
+ <br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ed7208b8-6bdc-4c82-98aa-8c8cb9c1428f" height="150"/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C89F8&height=120&section=footer"/>
